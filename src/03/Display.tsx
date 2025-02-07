@@ -7,49 +7,49 @@ const countryData = [
         pays:"Centrafrque",
         capital:"Bangui",
         population: 5000000,
-        drapeau:"RENAISSANCE"
+        drapeau:"/assets/logo.png"
     },
 
     {
         pays:"Cameroon",
         capital:"Douala",
         population: 5000000,
-        drapeau:"UNKNOWN"
+        drapeau:""
     },
 
     {
         pays:"France",
         capital:"Paris",
         population: 5000000,
-        drapeau:"UNKNOWN"
+        drapeau:""
     },
 
     {
         pays:"ETHIOPIE",
         capital:"ADIS",
         population: 5000000,
-        drapeau:"UNKNOWN"
+        drapeau:""
     },
 
     {
         pays:"Allemagne",
         capital:"Berlin",
         population: 50006000,
-        drapeau:"RENAISSANCE"
+        drapeau:""
     },
 
     {
         pays:"TCHAD",
         capital:"N'DJAMENA",
         population: 456.0000,
-        drapeau:"RENAISSANCE"
+        drapeau:""
     },
 
     {
         pays:"Soudan",
         capital:"Khartoum",
         population:354.0000,
-        drapeau:"RENAISSANCE"
+        drapeau:""
     }
 ];
 

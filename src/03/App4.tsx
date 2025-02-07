@@ -1,6 +1,7 @@
 
 import '../assets/fonts/poppins.css';
 
+
 interface Props{
 
     pays: string
@@ -19,7 +20,7 @@ export default function DataCountry(props: Props){
             <strong>Pays:</strong> {props.pays} <br />
             <strong>Capitale :</strong> {props.capitale}  <br />
            <strong> Population: </strong>{props.population} <br />
-           <strong> Drapeau: </strong>{props.drapeau} <br />
+           <strong> Drapeau: </strong> <img src={props.drapeau} width={100} height={100}/><br />
         </div>
     )
 }
