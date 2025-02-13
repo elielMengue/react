@@ -7,7 +7,7 @@ const countryData = [
         pays:"Centrafrque",
         capital:"Bangui",
         population: 5000000,
-        drapeau:"/assets/logo.png"
+        drapeau:'./image.png'
     },
 
     {
